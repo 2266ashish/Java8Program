@@ -1,4 +1,4 @@
-package com.jdk8.week01;
+package com.jdk8.exercise;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -17,7 +17,8 @@ public class Day01_ReverseString {
                 .collect(Collectors.joining());
         System.out.println(reverse);
     }
-//best approche
+
+    //best approche
     private static void reverseString(String str) {
         StringBuilder sb = new StringBuilder(str);
         String reverse = sb.reverse().toString();

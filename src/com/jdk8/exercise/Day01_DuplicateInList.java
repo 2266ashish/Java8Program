@@ -1,4 +1,4 @@
-package com.jdk8.week01;
+package com.jdk8.exercise;
 
 import java.util.Arrays;
 import java.util.HashSet;

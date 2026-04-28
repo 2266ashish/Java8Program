@@ -1,4 +1,4 @@
-package com.jdk8.week02;
+package com.jdk8.week01;
 
 import java.util.List;
 
